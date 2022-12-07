@@ -1,5 +1,5 @@
 body {
-	background: #fff url('/servers/rvl_servers/romnation.net/rn/topbarBg.png') repeat-x;
+	background: #fff url('servers/rvl_servers/romnation.net/rn/topbarBg.png') repeat-x;
 	font-family: verdana;
 	font-size: 77%;
 	color: #000;
@@ -60,7 +60,7 @@ td#navcell {
 }
 
 div.leftnav {
-	background: url/servers/rvl_servers/romnation.net/rn/sidebarBg.png') right;
+	background: url servers/rvl_servers/romnation.net/rn/sidebarBg.png') right;
 	border-top: 1px solid #DBDBDB;
 	border-right: 1px solid #DBDBDB;
 	border-bottom: 1px solid #DBDBDB;
@@ -249,11 +249,11 @@ div.nicetable table {
 
 div.nicetable tr.firsttr {
 
-	background: url(/servers/rvl_servers/romnation.net/rn/secondtopbg.png) repeat-x;
+	background: url(servers/rvl_servers/romnation.net/rn/secondtopbg.png) repeat-x;
 }
 
 div.nicetable tr.firsttr:hover {
-	background: url(/servers/rvl_servers/romnation.net/rn/secondtopbg.png) repeat-x;
+	background: url(servers/rvl_servers/romnation.net/rn/secondtopbg.png) repeat-x;
 }
 
 div.nicetable td, div.nicetable th {
@@ -278,12 +278,12 @@ div.rating_bar_container {
 
 div.rating_bar {
 	width: 100%;
-	background: url(/servers/rvl_servers/romnation.net/images/rating_bar_bg.gif) 0 0 repeat-x;
+	background: url(servers/rvl_servers/romnation.net/images/rating_bar_bg.gif) 0 0 repeat-x;
 }
 
 div.rating_bar div {
 	height: 5px;
-	background: url(/servers/rvl_servers/romnation.net/images/rating_bar_fg.gif) 0 0 repeat-x;
+	background: url(servers/rvl_servers/romnation.net/images/rating_bar_fg.gif) 0 0 repeat-x;
 }
 
 div.rating_bar_details {
@@ -310,7 +310,7 @@ div.dropdown ul {
 
 div.dropdown li {
 	padding: 5px;
-	background: url(/servers/rvl_servers/romnation.net/images/darrow-black.gif) right 8px no-repeat;
+	background: url(servers/rvl_servers/romnation.net/images/darrow-black.gif) right 8px no-repeat;
 	font-weight: bold;
 	position: relative;
 }
@@ -348,13 +348,13 @@ div#downloadsection td {
 
 div#downloadlink {
 	height: 60px;
-	background: url(/servers/rvl_servers/romnation.net/rn/download.gif) no-repeat;
+	background: url(servers/rvl_servers/romnation.net/rn/download.gif) no-repeat;
 	padding: 10px 0 0 60px;
 }
 
 div#cheatslink {
 	height: 60px;
-	background: url(/servers/rvl_servers/romnation.net/rn/cheatsicon.gif) no-repeat;
+	background: url(servers/rvl_servers/romnation.net/rn/cheatsicon.gif) no-repeat;
 	padding: 15px 0 0 60px;
 }
 
