@@ -60,7 +60,7 @@ td#navcell {
 }
 
 div.leftnav {
-	background: url/servers/rvl_servers/romnation.net/rn/sidebarBg.png') right;
+	background: url ('/servers/rvl_servers/romnation.net/rn/sidebarBg.png') right;
 	border-top: 1px solid #DBDBDB;
 	border-right: 1px solid #DBDBDB;
 	border-bottom: 1px solid #DBDBDB;
