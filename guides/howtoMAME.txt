@@ -1,0 +1,6 @@
+HOW TO PLAY ROMS IN MAMEUI/MESSUI
+1. go to the file path /roms/
+2. place your roms
+3. you will actually need to provide the file path in dir.txt depending what roms your trying to run in MAMEUI/MESSUI
+for example C:\Users\Administrator\Desktop\MESSUI\roms\example.zip.
+and you're all set, enjoy.
